@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "Almeera Shezan Noreen anak Baik",
+      "email": "almeera123@gmail.coco",
+      "phone": "85777624146",
+      "address": "Cimanggu Bogor",
+      "id": 2
+    },
+    {
+      "name": "Cong Peiyong",
+      "email": "cpy.laela@gmail.com",
+      "phone": "56823652",
+      "address": "Beijing - Bogor",
+      "id": 3
+    },
+    {
+      "name": "Laela",
+      "email": "laela.office123@gmail.com",
+      "phone": "85777624146",
+      "address": "Cimangu Bogor",
+      "id": 4
+    },
+    {
+      "name": "Violate",
+      "email": "violate@gmail.com",
+      "phone": "08647473273512",
+      "address": "Leuwiliang",
+      "id": 5
+    },
+    {
+      "name": "Leo",
+      "email": "leonard.morin@gmail.com",
+      "phone": "08572835251",
+      "address": "Depok",
+      "id": 6
+    },
+    {
+      "name": "Detha Arya",
+      "email": "detha.arya@gmail.com",
+      "phone": "7592358266",
+      "address": "Tangerang",
+      "id": 7
+    },
+    {
+      "name": "Nissa",
+      "email": "nissa.voi@gmail.com",
+      "phone": "328652835",
+      "address": "Bekasi",
+      "id": 9
+    },
+    {
+      "name": "Sarah",
+      "email": "sarah.co@voi.co",
+      "phone": "46283527",
+      "address": "Karawang",
+      "id": 10
+    },
+    {
+      "name": "Ilham",
+      "email": "ilham@goi.com",
+      "phone": "6423858754",
+      "address": "Bekasi",
+      "id": 11
+    },
+    {
+      "name": "Tetha",
+      "email": "teta@gmail.com",
+      "phone": "0346804396348",
+      "address": "Ciparigi",
+      "id": 12
+    }
+  ]
+}
